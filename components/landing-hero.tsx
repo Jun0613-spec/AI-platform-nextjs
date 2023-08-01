@@ -39,7 +39,7 @@ export const LandingHero = () => {
         </Link>
       </div>
       <div className="text-zinc-400 text-xs md:text-sm font-normal">
-        No credit card required.
+        Unlock the power of AI for free.
       </div>
     </div>
   );
